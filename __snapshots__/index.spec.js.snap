@@ -10,3 +10,20 @@ Array [
   "rgb(219,219,219)",
 ]
 `;
+
+exports[`color-steps utility should support alpha 1`] = `
+Array [
+  "rgba(0,0,0,0.5)",
+]
+`;
+
+exports[`color-steps utility should support going from light to dark 1`] = `
+Array [
+  "rgb(219,219,219)",
+  "rgb(182,182,182)",
+  "rgb(146,146,146)",
+  "rgb(109,109,109)",
+  "rgb(73,73,73)",
+  "rgb(36,36,36)",
+]
+`;
