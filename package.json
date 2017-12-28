@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/mjswensen/color-steps#readme",
   "dependencies": {
-    "color": "^2.0.1"
+    "onecolor": "^3.0.5"
   },
   "devDependencies": {
     "jest": "^22.0.4"
