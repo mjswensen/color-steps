@@ -1,0 +1,30 @@
+{
+  "name": "color-steps",
+  "version": "1.0.0",
+  "description": "A utility for calculating intermediate steps between two colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjswensen/color-steps.git"
+  },
+  "keywords": [
+    "color",
+    "gradient",
+    "intermediate"
+  ],
+  "author": "mjswensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjswensen/color-steps/issues"
+  },
+  "homepage": "https://github.com/mjswensen/color-steps#readme",
+  "dependencies": {
+    "color": "^2.0.1"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
