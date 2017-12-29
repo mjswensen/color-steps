@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A utility for calculating intermediate steps between two colors.",
   "main": "index.js",
+  "bin": "./cli.js",
   "scripts": {
     "test": "jest"
   },
