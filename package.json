@@ -4,6 +4,9 @@
   "description": "A utility for calculating intermediate steps between two colors.",
   "main": "index.js",
   "bin": "./cli.js",
+  "engines": {
+    "node": ">=6.12.2"
+  },
   "scripts": {
     "test": "jest"
   },
