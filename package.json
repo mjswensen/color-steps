@@ -1,6 +1,6 @@
 {
   "name": "color-steps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility for calculating intermediate steps between two colors.",
   "main": "index.js",
   "bin": "./cli.js",
