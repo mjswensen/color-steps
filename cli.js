@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
 try {
-  const steps = require('./index')(...process.argv.slice(2));
+  const [color1, color2, count] = process.argv.slice(2),
+    steps = require('./index')(color1, color2, Number(count) || undefined);
   process.stdout.write(steps.join('\n'));
   process.stdout.write('\n');
 } catch (e) {

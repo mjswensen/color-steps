@@ -27,11 +27,11 @@ color-steps "red" "blue" 10
 ```
 $ npx color-steps "black" "white" 5
 
-rgb(5,5,5)
-rgb(10,10,10)
-rgb(15,15,15)
-rgb(20,20,20)
-rgb(25,25,25)
+rgb(43,43,43)
+rgb(85,85,85)
+rgb(128,128,128)
+rgb(170,170,170)
+rgb(212,212,212)
 ```
 
 ![circles with stepping colors](/assets/gradient-2.svg)
