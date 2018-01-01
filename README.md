@@ -1,4 +1,4 @@
-![circles with stepping colors](/assets/gradient-1.svg)
+![stepping colors](/assets/gradient-1.svg)
 
 # color-steps [![Travis](https://img.shields.io/travis/mjswensen/color-steps.svg)](https://travis-ci.org/mjswensen/color-steps)
 
@@ -34,4 +34,4 @@ rgb(170,170,170)
 rgb(212,212,212)
 ```
 
-![circles with stepping colors](/assets/gradient-2.svg)
+![stepping colors](/assets/gradient-2.svg)
