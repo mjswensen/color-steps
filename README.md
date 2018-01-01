@@ -1,3 +1,5 @@
+![circles with stepping colors](/assets/gradient-1.svg)
+
 # color-steps [![Travis](https://img.shields.io/travis/mjswensen/color-steps.svg)](https://travis-ci.org/mjswensen/color-steps)
 
 A utility for calculating intermediate steps between two colors.
@@ -6,11 +8,11 @@ A utility for calculating intermediate steps between two colors.
 
 This package exports a single function that takes three arguments:
 
-* `color1` - a string representation of a color
-* `color2` - a string representation of a color
+* `color1` - a CSS color string
+* `color2` - a CSS color string
 * `count` - the desired number of intermediate colors to return, defaults to `6`
 
-The return value is an array of colors in string format, either `rgba` or `rgb` if all colors have an alpha value of `1`.
+The return value is an array of colors in `rgba` format (or `rgb` if all colors have an alpha value of `1`).
 
 ## CLI
 
@@ -31,3 +33,5 @@ rgb(15,15,15)
 rgb(20,20,20)
 rgb(25,25,25)
 ```
+
+![circles with stepping colors](/assets/gradient-2.svg)
