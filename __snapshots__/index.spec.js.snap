@@ -2,12 +2,12 @@
 
 exports[`color-steps utility should match base calucation with white and black 1`] = `
 Array [
-  "rgb(36,36,36)",
-  "rgb(73,73,73)",
-  "rgb(109,109,109)",
+  "rgb(106,106,106)",
   "rgb(146,146,146)",
-  "rgb(182,182,182)",
-  "rgb(219,219,219)",
+  "rgb(175,175,175)",
+  "rgb(199,199,199)",
+  "rgb(220,220,220)",
+  "rgb(238,238,238)",
 ]
 `;
 
@@ -19,11 +19,11 @@ Array [
 
 exports[`color-steps utility should support going from light to dark 1`] = `
 Array [
-  "rgb(219,219,219)",
-  "rgb(182,182,182)",
+  "rgb(238,238,238)",
+  "rgb(220,220,220)",
+  "rgb(199,199,199)",
+  "rgb(175,175,175)",
   "rgb(146,146,146)",
-  "rgb(109,109,109)",
-  "rgb(73,73,73)",
-  "rgb(36,36,36)",
+  "rgb(106,106,106)",
 ]
 `;

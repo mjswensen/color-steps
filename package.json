@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/mjswensen/color-steps#readme",
   "dependencies": {
-    "onecolor": "^3.0.5"
+    "onecolor": "^3.0.5",
+    "srgb-logarithmic-and-linear-colour-conversion": "^1.0.2"
   },
   "devDependencies": {
     "jest": "^22.0.4"
