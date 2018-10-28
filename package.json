@@ -29,6 +29,6 @@
     "onecolor": "^3.0.5"
   },
   "devDependencies": {
-    "jest": "^22.0.4"
+    "jest": "^23.6.0"
   }
 }
