@@ -1,4 +1,4 @@
-![stepping colors](/assets/gradient-1.svg)
+![stepping colors](https://cdn.jsdelivr.net/gh/mjswensen/color-steps@53b83ef842b5134399f37f396e686755916f879c/assets/gradient-1.svg)
 
 # color-steps [![Travis](https://img.shields.io/travis/mjswensen/color-steps.svg)](https://travis-ci.org/mjswensen/color-steps)
 
@@ -34,4 +34,4 @@ rgb(170,170,170)
 rgb(212,212,212)
 ```
 
-![stepping colors](/assets/gradient-2.svg)
+![stepping colors](https://cdn.jsdelivr.net/gh/mjswensen/color-steps@53b83ef842b5134399f37f396e686755916f879c/assets/gradient-2.svg)
